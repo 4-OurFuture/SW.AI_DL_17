@@ -1,6 +1,6 @@
 # DL_Project_17
 
-DATASET: https://archive.org/details/idrid
+DATASET: https://archive.org/details/idrid 
 
 ## Segmentation model
 https://github.com/YaqiWangCV/LKD.git
